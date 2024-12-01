@@ -191,13 +191,15 @@ Initialize the Node.js project (if not already done):
 
 bash
 Copiar código
-npm init -y
+    npm init -y
 Install the WebSocket library:
 
 bash
 Copiar código
-npm install ws
-🚀 Running the Project
+    npm install ws
+
+
+## 🚀 Running the Project
 Step 1: Start the Discovery Server
 Run the discoveryServer.js file:
 
