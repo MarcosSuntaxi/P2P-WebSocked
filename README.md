@@ -177,10 +177,7 @@ This project is a basic implementation of a **Peer-to-Peer (P2P)** system using 
 
 ## 📂 Project Structure
 
-p2p-simple/ │ ├── discoveryServer.js # Discovery server ├── peer.js # P2P node ├── README.md # Documentation └── package.json # Project configuration
-
-yaml
-Copiar código
+P2P-WEBSOCKET/ │ ├── .gitignore # Files to ignore in Git ├── discoveryServer.js # Discovery server ├── peer.js # P2P node ├── package-lock.json # Lockfile for dependencies ├── package.json # Project configuration ├── README.md # Documentation └── node_modules/ # Installed dependencies (ignored by Git)
 
 ---
 
