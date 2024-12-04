@@ -189,13 +189,9 @@ P2P-WEBSOCKET/ │ ├── .gitignore # Files to ignore in Git ├── disco
    cd p2p-simple
 Initialize the Node.js project (if not already done):
 
-bash
-Copiar código
     npm init -y
 Install the WebSocket library:
 
-bash
-Copiar código
     npm install ws
 
 
