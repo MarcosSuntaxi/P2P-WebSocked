@@ -220,9 +220,11 @@ Step 3: Send Messages
 Type a message in one of the node terminals.
 The message will be broadcast to all other connected nodes.
 Example:
-
-Node 1 sends: Hello Node 2
-Node 2 receives: Message received: Hello Node 2
+    ```bash
+    Node 1 sends: Hello Node 2
+    
+    ```bash
+    Node 2 receives: Message received: Hello Node 2
 🧩 How It Works
 Discovery Server:
     Listens for node connections.
