@@ -203,18 +203,16 @@ Copiar código
 Step 1: Start the Discovery Server
 Run the discoveryServer.js file:
 
-bash
-Copiar código
-node discoveryServer.js
-The server will be listening on ws://localhost:8080.
+
+    node discoveryServer.js
+    The server will be listening on ws://localhost:8080.
 
 Step 2: Start the P2P Nodes
 Open multiple terminals and run the peer.js file in each one:
 
-bash
-Copiar código
-node peer.js
-Each node will automatically connect to the discovery server.
+
+    node peer.js
+    Each node will automatically connect to the discovery server.
 
 Step 3: Send Messages
 Type a message in one of the node terminals.
